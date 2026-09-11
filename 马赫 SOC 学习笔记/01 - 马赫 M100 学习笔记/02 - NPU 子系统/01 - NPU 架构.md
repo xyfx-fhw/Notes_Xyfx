@@ -19,7 +19,6 @@
 # 6 HBSM(UM/TM)
 
 ![[Drawing 2026-09-11 10.39.12.excalidraw | 1000]]
-![[Drawing 2026-09-11 10.44.23.excalidraw | 1000]]
 # 7 TWUs
 
 ![[Drawing 2026-09-11 10.44.23.excalidraw | 1000]]

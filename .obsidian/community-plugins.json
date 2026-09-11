@@ -1,7 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "number-headings-obsidian",
   "obsidian-outliner",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "number-headings-obsidian"
 ]

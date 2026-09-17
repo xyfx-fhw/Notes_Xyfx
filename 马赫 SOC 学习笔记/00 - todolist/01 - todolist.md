@@ -1,2 +1,5 @@
 - [ ] RISCV
+	- [ ] x280的 Vector 处理能力
 - [ ] 完整的 C 编程 
+- [ ] SIMT 和 SIMP
+- [ ] 理解传统 NPU 架构
